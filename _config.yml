@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "http://www.aimeili119901.com"
+url: "https://www.aimeili119901.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
