@@ -82,16 +82,15 @@ social-network-links:
   twitter: aimeili119901
   wechat: aimeili119901
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  linkedin: aimeili119901
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/aimeili119901"
+#  snapchat: aimeili119901
+#  instagram: aimeili119901
+#  youtube: user/aimeili119901
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: aimeili119901
 #  twitch: yourname
 #  yelp: yourname
 
@@ -104,7 +103,7 @@ share-links-active:
   wechat: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://aimeili119901.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://aimeili119901.com"  # eg. "aimeili119901.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -139,7 +138,7 @@ url-pretty: "https://aimeili119901.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository eg. "aimeili119901/beautiful-jekyll"
   branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
@@ -260,5 +259,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
