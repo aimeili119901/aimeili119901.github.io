@@ -44,9 +44,16 @@ layout: base
           {% endfor %}
           {% else %}
             {{ page.tags | join: ", " }}
-          {% endif %}
+      {% endif %}
+
+		<div>
+		{% include other-enjoy.html %}
+		</div>
+
         </div>
       {% endif %}
+
+
 
       {% if page.social-share %}
         {% include social-share.html %}
@@ -76,7 +83,10 @@ layout: base
         <div class="justcomments-comments">
           {% include just_comments.html %}
         </div>
+
+
       {% endif %}
     </div>
   </div>
 </div>
+
