@@ -77,9 +77,9 @@ author:
 social-network-links:
   rss: true
   email: "aimeili119901@163.com"
-  facebook: aimeili119901
+#  facebook: aimeili119901
   twitter: aimeili119901
-  wechat: aimeili119901
+#  wechat: aimeili119901
 #  reddit: yourname
 #  linkedin: aimeili119901
 #  xing: yourname
@@ -96,10 +96,10 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  google: false
-  linkedin: true
-  wechat: true
+#  facebook: true
+#  google: false
+#  linkedin: true
+#  wechat: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "https://aimeili119901.com"  # eg. "aimeili119901.com/beautiful-jekyll"
