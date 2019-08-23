@@ -6,7 +6,7 @@ tags:
 - 美食
 ---
 
-![](/img/yangmei1.jpg)
+![](/img/yangroutang.jpeg)
 这一阵暴雨过后，俺们这里也有了一丝秋高气爽的味道。秋天的早餐，羊肉汤少不了。
 
 - 羊肉汤
