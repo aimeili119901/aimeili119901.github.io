@@ -3,7 +3,7 @@ layout: post
 title: 荆防透骨草 
 subtitle: 湿疹止痒效果不错
 tags:
-- 湿疹
+- 湿疹笔记
 ---
 
 记录个止痒祛小疹子效果比较好的方法。　　
